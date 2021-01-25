@@ -12,7 +12,16 @@ http://cs230.stanford.edu/lecture/
 
 https://www.tensorflow.org/agents/tutorials/0_intro_rl
 
+https://pythonprogramming.net/machine-learning-tutorials/
+
+https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/
+
+# Tutorials
+
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+
 # Tools
 
 https://keras.io/
 https://www.tensorflow.org/
+http://carla.org/
