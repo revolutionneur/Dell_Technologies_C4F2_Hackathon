@@ -1,4 +1,4 @@
-# Dell_Technologies_C-4F-_Hackathon
+# Dell_Technologies_C4F2_Hackathon
 https://c4f2.ai.gov.eg/
 
 
